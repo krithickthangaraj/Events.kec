@@ -1,0 +1,2 @@
+# Events.kec
+Engaged in a web-based project aimed at optimizing communication channels for official Paper presentations, project showcases, and club activities across our college. The objective is to streamline these events efficiently by consolidating them into a centralized platform. Committed to enhancing organizational effectiveness and fostering seamless collaboration within the college community.
